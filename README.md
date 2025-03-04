@@ -65,5 +65,4 @@ Future Improvements
 🔹 Integrate with IoT-based disease monitoring systems for farmers.
 
 
-Contributors
-🚀  Developer & Researcher-aswin prakash and siva sreeram 
+
